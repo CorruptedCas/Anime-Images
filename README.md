@@ -1,3 +1,3 @@
 # Anime
 
-Just for a load of random Anime images.
+Using to store anime related images.
