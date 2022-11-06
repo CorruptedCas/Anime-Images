@@ -1,3 +1,3 @@
 # Anime
 
-Using to store anime related images.
+Using to store anime images in json arrays.
